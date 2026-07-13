@@ -10,7 +10,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=11vib&color=green" alt="11vib" />
+  <img src="https://komarev.com/ghpvc/?username=11vib&color=grey&style=for-the-badge" alt="11vib" />
 </p>
 </div>
 <!--## Hi there 👋-->
