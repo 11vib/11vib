@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=11vib)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=11vib&color=green" alt="11vib" />
+</p>
 </div>
 <!--## Hi there 👋-->
 
