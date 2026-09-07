@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/vibha-hb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.credly.com/users/vibha-h-b.213143b1">
+    <img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+  </a>
   <br>
   <h1>Hi there👋 </h1>
 </div>
